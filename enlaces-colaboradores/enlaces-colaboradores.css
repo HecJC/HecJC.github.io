@@ -1,0 +1,34 @@
+.tituloprincipal{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    text-align: center;
+    font-size: large;
+    font-size: 50px;
+}
+h1{
+    color: blue;
+    text-align: center;
+   
+    font-size: 34px;
+    text-decoration: underline 2px color red;
+    border: 1px solid   color black;
+}
+body{
+    background-color: rgb(180, 211, 230);
+    border: 1px solid black;
+    width: 95%;
+}
+a{
+    color: black;
+    
+}
+h3{
+    display: inline-block;
+    width: 16%;
+    padding: 0px;
+    text-align: center;
+    font-size: large;
+    margin: auto;
+    padding: 15px;
+
+}

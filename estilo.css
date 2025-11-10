@@ -24,7 +24,7 @@ h3{
 h1{
     color: blue;
     text-align: center;
-    background-color: rgb(180, 211, 230);
+   
     font-size: 34px;
     text-decoration: underline 2px color red;
     border: 1px solid   color black;
@@ -48,4 +48,13 @@ p.normal{
     color: bisque;
     font-size: 14px;
     text-indent: 20px;
+}
+body{
+    background-color: rgb(180, 211, 230);
+    border: 1px solid black;
+    width: 95%;
+}
+a{
+    color: white;
+    border-bottom: none;
 }
