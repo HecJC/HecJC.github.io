@@ -54,7 +54,7 @@ body{
     border: 1px solid black;
     width: 95%;
 }
-a{
+.enlaceMenu{
     color: white;
-    border-bottom: none;
+    text-decoration: none;
 }

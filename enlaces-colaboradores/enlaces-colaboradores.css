@@ -1,4 +1,4 @@
-.tituloprincipal{
+.titulosecundario{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: red;
     text-align: center;
@@ -19,6 +19,8 @@ body{
     width: 95%;
 }
 a{
+    
+    text-decoration: none;
     color: black;
     
 }
@@ -30,5 +32,32 @@ h3{
     font-size: large;
     margin: auto;
     padding: 15px;
+
+}
+
+.seleccion{
+    
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: large;
+    margin: auto;
+    background-color: black;
+    color: white;   
+}
+.tituloprincipal{
+    font-family: Ballet;
+    color: red;
+    text-align: center;
+    font-size: large;
+    font-size: 50px;
+}
+.enlaceMenu{
+    color: white;
+    text-decoration: none;
+}
+.seleccion h3{
+    display: inline-block;
+    width: 13%;
 
 }
