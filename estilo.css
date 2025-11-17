@@ -30,12 +30,10 @@ h1{
     border: 1px solid   color black;
 }
 h2{
-    color: aqua;
-    text-align: right;
+    color: black;
+    text-align: center;
     font-size: 16px;
-    border: 1px dashed   red;
-    border-bottom: 1px solid    blue;
-
+   
 }
 main{
     color: blue;
@@ -57,4 +55,27 @@ body{
 .enlaceMenu{
     color: white;
     text-decoration: none;
+}
+img{
+    border: dashed 1px aqua;
+    width: 45%;
+    
+    
+}
+.contenedorgeneral{
+    text-align: center;
+}
+.imagenes{
+    margin: 2%;
+    vertical-align: top;
+    font-size: large;
+    
+    display: inline-block;
+    width: 45%;
+}
+footer{
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 5px;
 }
