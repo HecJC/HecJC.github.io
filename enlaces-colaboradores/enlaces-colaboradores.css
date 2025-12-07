@@ -17,6 +17,7 @@ body{
     background-color: rgb(180, 211, 230);
     border: 1px solid black;
     width: 95%;
+    margin: auto;
 }
 a{
     
@@ -24,9 +25,13 @@ a{
     color: black;
     
 }
-h3{
+.seleccion>h3{
     display: inline-block;
-    width: 16%;
+    width: 24%;
+}
+div>h3{
+    display: inline-block;
+    width: 24%;
     padding: 0px;
     text-align: center;
     font-size: large;
@@ -60,4 +65,14 @@ h3{
     display: inline-block;
     width: 13%;
 
+}
+footer{
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 5px;
+}
+.enlaceMenu:hover{
+    color: red;
+    border-bottom: 3px solid blue;
 }

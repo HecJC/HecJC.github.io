@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(180, 211, 230);
+    border: 1px solid black;
+    width: 95%;
+    margin: auto;
+}
+footer{
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 5px;
+}
+.tituloprincipal{
+    font-family: Ballet;
+    color: red;
+    text-align: center;
+    font-size: large;
+    font-size: 50px;
+}
+.seleccion{
+    
+    
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: large;
+    margin: auto;
+    background-color: black;
+    color: white;   
+}
+.seleccion>h3{
+    display: inline-block;
+    width: 24%;
+}
+
+
+header>h1{
+    color: blue;
+    text-align: center;
+   
+    font-size: 34px;
+    text-decoration: underline 2px color red;
+    border: 1px solid   color black;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-size: 16px;
+   
+}
+main{
+    text-align: center;
+
+}
+p{
+    color: black;
+}
+p.normal{
+    color: bisque;
+    font-size: 14px;
+    text-indent: 20px;
+}
+.enlaceMenu{
+    color: white;
+    text-decoration: none;
+}
+img{
+    
+    width: 60%;
+    
+    
+}
+.contenedorgeneral{
+    text-align: center;
+}
+.imagenes{
+    margin: 2%;
+    vertical-align: top;
+    font-size: large;
+    
+    display: inline-block;
+    width: 45%;
+}
+.enlaceMenu:hover{
+    color: red;
+    border-bottom: 3px solid blue;
+}
+section>div>h3:hover{
+    color: red;
+}
+section>div{
+    display: inline-block;
+    width: 48%;
+    margin: auto;
+    vertical-align: middle;
+    padding: 5px;
+}
