@@ -85,3 +85,11 @@ footer{
     color: red;
     border-bottom: 3px solid blue;
 }
+.contenedorgeneral>p>img{
+    width: 15%;
+    float: left;
+}
+.contenedorgeneral{
+
+    margin: 15px;
+}
