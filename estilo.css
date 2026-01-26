@@ -123,5 +123,32 @@ header{
     top: 0;
     z-index: 100;
 }
+.migaspan{
+    font-size: 14px;
+    margin: 10px;
+    text-align: left;
+    display: inline;
+}
+.migaspan>h2>a{
+    text-decoration: none;
+    color: black;
+}
+.migaspan>h2>a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.migaspan>h2{
+    font-size: 16px;
+    text-align: left;
+    margin: 15px;
+}
+div>h2>a{
+    text-decoration: none;
+    color: black;
+}
+div>h2>a:hover{
+    color: red;
+    text-decoration: underline;
+}
 
 
