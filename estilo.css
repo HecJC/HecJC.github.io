@@ -152,3 +152,75 @@ div>h2>a:hover{
 }
 
 
+@media (max-width: 768px) {
+    body {
+        width: 100%;
+        margin: 0;
+        padding: 10px;
+    }
+    
+    .tituloprincipal {
+        font-size: 30px;
+    }
+    
+    .seleccion {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    h3 {
+        display: block;
+        width: 100%;
+        margin: 5px 0;
+    }
+    
+    .imagenes {
+        width: 100%;
+        margin: 5px 0;
+    }
+    
+    img {
+        width: 80%;
+    }
+    
+    .contenedorgeneral {
+        margin: 5px;
+    }
+    
+    .historiaMeme {
+        margin: 10px;
+        left: 0;
+        width: 100%;
+    }
+    
+    h1 {
+        font-size: 24px;
+    }
+    
+    h2 {
+        font-size: 14px;
+    }
+    
+    p.normal {
+        font-size: 12px;
+    }
+    
+    footer {
+        padding: 10px;
+    }
+}
+
+@media (min-width: 769px) {
+    
+    .seleccion {
+        display: flex;
+        justify-content: center;
+    }
+    
+    h3 {
+        flex: 1;
+    }
+}
+
+
